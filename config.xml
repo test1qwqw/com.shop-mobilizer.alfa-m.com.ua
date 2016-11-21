@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.alfa-m.com.ua"
-  version     = "16.11.17"
-  versionCode = "161117"
+  version     = "16.11.21"
+  versionCode = "161121"
 >
   <name>Альфа-Компьютер</name>
   <author
